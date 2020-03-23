@@ -1,0 +1,4 @@
+Let's see what happens with this file -- no crlf
+several lines
+more lines
+
