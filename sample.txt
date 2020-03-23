@@ -2,3 +2,8 @@ Let's see what happens with this file -- no crlf
 several lines
 more lines
 
+Now let's add some more lines.  
+
+I am trying to see if a crlf is added.
+
+
